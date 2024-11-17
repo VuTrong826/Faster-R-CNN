@@ -16,8 +16,8 @@ With my code, you can:
 
 ## Requirements:
 
-* **python **
-* **pytorch **
+* **python**
+* **pytorch**
 * **opencv (cv2)**
 * **tensorboard**
 * **numpy**
