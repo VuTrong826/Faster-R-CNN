@@ -1,4 +1,4 @@
-# [PYTORCH] YOLO (You Only Look Once)
+# [PYTORCH] Faster R-CNN (Region-Based Convolutional Neural Network)
 ## Introduction
 
 ## Introduction
