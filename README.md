@@ -1,11 +1,9 @@
 # [PYTORCH] YOLO (You Only Look Once)
 ## Introduction
 
-Here is my pytorch implementation of the model described .
-<p align="center">
-  <img src="output_video_test/output/videotestt.gif"><br/>
-  <i>An example of my model's output.</i>
-</p>
+## Introduction
+
+Here is my pytorch implementation of the model described in the paper **VOC2012**  [paper](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html). 
 
 ## How to use my code
 
@@ -73,5 +71,8 @@ I used dataset: VOC2012. Statistics of datasets I used for experiments is shown 
 
 Some output predictions for experiments for each dataset are shown below:
 - **VOC2012**
-
-<img src="images_result/result_image6.jpg" width="280"><img src="images_result/result_image1.jpg" width="280"> <img src="images_result/result_image4.jpg" width="280"> <img src="images_result/result_image5.jpg" width="280">
+<p align="center">
+  <img src="output_video_test/output/videotestt.gif"><br/>
+  <i>My model's output.</i>
+</p>
+<img src="images_result/result_image1.jpg" width="280"> <img src="images_result/result_image4.jpg" width="280"> <img src="images_result/result_image5.jpg" width="280"><img src="images_result/result_image6.jpg" width="280">
