@@ -1,4 +1,12 @@
 # [PYTORCH] YOLO (You Only Look Once)
+## Introduction
+
+Here is my pytorch implementation of the model described .
+<p align="center">
+  <img src="output_video_test/output/videotestt.gif"><br/>
+  <i>An example of my model's output.</i>
+</p>
+
 ## How to use my code
 
 With my code, you can:
