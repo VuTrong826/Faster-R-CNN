@@ -30,7 +30,7 @@ I used dataset: VOC2012. Statistics of datasets I used for experiments is shown 
 | COCO2014               |    80   |         83k/-         |            41k/-           |
 | COCO2017               |    80   |         118k/-        |             5k/-           |
 - **VOC**:
-  Download the voc images and annotations from [VOC2007](http://host.robots.ox.ac.uk/pascal/VOC/voc2007) or [VOC2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012). Make sure to put the files as the following structure:
+  Download the voc images and annotations from [VOC2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012). Make sure to put the files as the following structure:
   ```
   VOCDevkit
   ├── VOC2007
